@@ -1,0 +1,1 @@
+print("Day 1 - Python print function\nThe function is declared like this:\nprint('what to print')")
