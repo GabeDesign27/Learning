@@ -1,6 +1,6 @@
 # set up script wide variables
-icecream = ["Chocolate", "Vanilla", "Parmiggiano Reggiano"]
-toppings = ["Cherry", "Sprinkles", "Whip Cream", "Ass Flakes"]
+icecream = ["Chocolate", "Vanilla", "Moose Tracks"]
+toppings = ["Cherry", "Sprinkles", "Whip Cream", "Brownie"]
 size = ["Small", "Medium", "Large"]
 
 # introduction
