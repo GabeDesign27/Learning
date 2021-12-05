@@ -45,8 +45,3 @@ class Cars:
                 car.clear()
                 car_order = self.car_list.index(car)
                 self.car_list.pop(car_order)
-
-
-'''Need to figure out a way to make it so that cars traveling in opposite direction do not spawn on the same 'lane'.
-Maybe check the y cor of newly spawned cars and append to a list to check to ensure that y cor isn't already set for a
-car with opposite heading.'''
